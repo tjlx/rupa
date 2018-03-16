@@ -17,7 +17,7 @@ _Notes_
 To install **virtualenv**, in shell:
 - 'cd' to main directory (e.g. 'cd rush')
 - 'pip install virtualenv'
-- 'virtualnv rushenv'
+- 'virtualenv rushenv'
 - 'source rushenv/bin/activate'
 You are now in virtual environment and can start the installation as above. In shell, 'deactivate' to 
 exit the virtual environment.
