@@ -10,7 +10,7 @@ in improving their prediction models so that it can in turn provide a realistic 
 2. In shell, **'pip install -r requirements.txt'**
 3. In your IDE (or separate sessions in shell), start 'consumer.py' to begin listening for newly created files.
 4. Start 'mo.py', 'ow.py', 'xu.py' to begin producing data. You have to insert your API keys in these programs.
-5. Start 'visualise.py' and view through your browser <http://localhost:8080> or visit [link](http://35.178.148.146/) 
+5. Start 'visualise.py' and view through your browser <http://localhost:8080> or visit [link](http://35.178.148.146:8080/) 
 (the author has hosted it on an EC2 instance).
 
 _Notes_
