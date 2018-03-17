@@ -79,7 +79,7 @@ where it can be recalled for predictive models.
 ### Future development
 
 The above represents a minimum viable product in which the author hopes to raise important considerations when 
-designing the product, and serves as a working prototype in which to engage with the Stakeholders for further developements.
+designing the product, and serves as a working prototype in which to engage with the Stakeholders for further development.
 Using the pub/sub and microservice model, one could also build thin API layers on top of the pipeline for machine learning
 and other anaytical SQL queries. Some added specifications could be as follow:
 - Install databases to collect forecast weather information to perform analysis of historical accuracy
